@@ -7,3 +7,5 @@
 [4][0][6] [0][1][0] [0][0][0]
 [5][8][0] [0][0][0] [0][0][0]
 [0][1][9] [4][8][0] [0][6][0]
+
+Just change the numbers inside dont touch anything else!
