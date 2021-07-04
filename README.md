@@ -2,4 +2,4 @@
  this will solve the suduku for you
  
  
-https://streamable.com/vnuxng
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 53.834%;"><iframe src="https://streamable.com/e/vnuxng" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
