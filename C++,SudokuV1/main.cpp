@@ -158,7 +158,7 @@ void main() {
 
 	);
 
-	cout << "Chose Option" << endl
+	cout << "Choose Option" << endl
 		<< "[1]- From Code" << endl << "[2]- From File" << endl << "[3]- Enter In Console"<<endl;
 	int UserInput;
 	cin >> UserInput;
